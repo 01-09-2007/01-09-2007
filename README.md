@@ -1,0 +1,2 @@
+- 👋 Oi, meu nome é Paulo César Dilelli Junior.
+- 👀 Eu me enteresso por programação de sites.
